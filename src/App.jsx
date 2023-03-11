@@ -30,7 +30,7 @@ const App = () => {
           <Routes location={location} key={location.key}>
             <Route exact path="/mercury" element={<Mercury />} />
             <Route exact path="/venus" element={<Venus />} />
-            <Route exact path="/eath" element={<Earth />} />
+            <Route exact path="/earth" element={<Earth />} />
             <Route exact path="/mars" element={<Mars />} />
             <Route exact path="/jupiter" element={<Jupiter />} />
             <Route exact path="/saturn" element={<Saturn />} />
