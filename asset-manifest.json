@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/planets/static/js/main.13aeea5f.js",
+    "main.js": "/planets/static/js/main.79310a47.js",
     "static/js/787.367c0aec.chunk.js": "/planets/static/js/787.367c0aec.chunk.js",
     "static/media/planet-mercury-geology.png": "/planets/static/media/planet-mercury-geology.aa6732c318454e3fc480.png",
     "static/media/planet-venus-geology.png": "/planets/static/media/planet-venus-geology.484f9dacbeb3b555ffba.png",
@@ -28,10 +28,10 @@
     "static/media/planet-mercury-internal.svg": "/planets/static/media/planet-mercury-internal.d1be143201898fac437968baae616e6b.svg",
     "static/media/planet-mercury.svg": "/planets/static/media/planet-mercury.1fce205c50f4657418d4562ca24b008a.svg",
     "index.html": "/planets/index.html",
-    "main.13aeea5f.js.map": "/planets/static/js/main.13aeea5f.js.map",
+    "main.79310a47.js.map": "/planets/static/js/main.79310a47.js.map",
     "787.367c0aec.chunk.js.map": "/planets/static/js/787.367c0aec.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.13aeea5f.js"
+    "static/js/main.79310a47.js"
   ]
 }
